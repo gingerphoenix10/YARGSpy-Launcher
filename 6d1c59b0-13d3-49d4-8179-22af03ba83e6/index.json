@@ -6,7 +6,7 @@
         "description": "YARGSpy is an Online Leaderboard mod for Yet Another Rhythm Game",
         "badge": "Modded",
         "releaseName": "YARGSpy Stable",
-        "iconUrl": "@/icons/Stable.png",
+        "iconUrl": "https://raw.githubusercontent.com/gingerphoenix10/YARGSpy-Launcher/refs/heads/main/yargspy-icon.png",
         "bannerBackUrl": "@/banners/Stable.png",
         "initialRelease": "2025-11-13T22:48:00.000Z",
         "newsCategory": "yargspy",
