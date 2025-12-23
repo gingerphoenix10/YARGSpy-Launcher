@@ -1,0 +1,32 @@
+{
+    "type": "application",
+    "uuid": "6d1c59b0-13d3-49d4-8179-22af03ba83e6",
+    "metadata": {
+        "name": "YARGSpy",
+        "description": "YARGSpy is an Online Leaderboard mod for Yet Another Rhythm Game",
+        "badge": "Modded",
+        "releaseName": "YARGSpy Stable",
+        "iconUrl": "@/icons/Stable.png",
+        "bannerBackUrl": "@/banners/Stable.png",
+        "initialRelease": "2025-11-13T22:48:00.000Z",
+        "newsCategory": "yargspy",
+        "links": {
+            "website": {
+                "name": "Official Website",
+                "url": "https://beta.yargspy.com"
+            },
+            "github": {
+                "name": "GitHub Repository",
+                "url": "https://github.com/gingerphoenix10/YARGSpy-Client"
+            },
+            "roadmap": {
+                "name": "YARG Roadmap",
+                "url": "https://gingerphoenix10.com"
+            }
+        },
+        "localeOverrides": {}
+    },
+    "version": {
+        "type": "list",
+        "listUrl": "https://raw.githubusercontent.com/gingerphoenix10/YARG_Plus_iOS/refs/heads/main/6d1c59b0-13d3-49d4-8179-22af03ba83e6/releases.json"
+    }
