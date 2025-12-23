@@ -7,7 +7,7 @@
         "badge": "Modded",
         "releaseName": "YARGSpy Stable",
         "iconUrl": "https://raw.githubusercontent.com/gingerphoenix10/YARGSpy-Launcher/refs/heads/main/yargspy-icon.png",
-        "bannerBackUrl": "@/banners/Stable.png",
+        "bannerBackUrl": "https://raw.githubusercontent.com/gingerphoenix10/YARGSpy-Launcher/refs/heads/main/yargspy-banner.png",
         "initialRelease": "2025-11-13T22:48:00.000Z",
         "newsCategory": "yargspy",
         "links": {
