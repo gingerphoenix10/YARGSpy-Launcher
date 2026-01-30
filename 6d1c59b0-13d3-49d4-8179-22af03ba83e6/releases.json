@@ -1,5 +1,11 @@
 [
     {
+        "uuid": "61fdeaca-c9ef-454f-98c9-29382988832a",
+        "url": "https://raw.githubusercontent.com/gingerphoenix10/YARGSpy-Launcher/refs/heads/main/6d1c59b0-13d3-49d4-8179-22af03ba83e6/releases/61fdeaca-c9ef-454f-98c9-29382988832a.json",
+        "tag": "v1.1.8",
+        "release": "2026-01-30T13:57:00Z"
+    },
+    {
         "uuid": "c725acd7-3682-451d-8dc9-2cb1954976fc",
         "url": "https://raw.githubusercontent.com/gingerphoenix10/YARGSpy-Launcher/refs/heads/main/6d1c59b0-13d3-49d4-8179-22af03ba83e6/releases/c725acd7-3682-451d-8dc9-2cb1954976fc.json",
         "tag": "v1.1.6",
