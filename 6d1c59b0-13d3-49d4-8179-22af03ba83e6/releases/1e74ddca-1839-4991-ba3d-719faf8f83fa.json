@@ -1,0 +1,45 @@
+{
+    "uuid": "1e74ddca-1839-4991-ba3d-719faf8f83fa",
+    "tag": "v1.2.0",
+    "release": "2026-01-30T15:15:00Z",
+    "content": [
+        {
+            "platforms": [
+                "windows"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/gingerphoenix10/YARGSpy-Launcher/releases/download/v1.2.0/YARGSpy_v1.2.0-Windows-x64.zip",
+                    "fileType": "zip"
+                }
+            ]
+        },
+        {
+            "platforms": [
+                "linux"
+            ],
+            "files": [
+                {
+                    "url": "https://github.com/gingerphoenix10/YARGSpy-Launcher/releases/download/v1.2.0/YARGSpy_v1.2.0-Linux-x64.zip",
+                    "fileType": "zip"
+                }
+            ]
+        }
+    ],
+    "launchOptions": {
+        "windows": {
+            "executablePath": "./YARG.exe",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang",
+            "downloadLocationArgument": "-download-location"
+        },
+        "linux": {
+            "executablePath": "./YARG",
+            "arguments": [],
+            "offlineArgument": "-offline",
+            "languageArgument": "-lang",
+            "downloadLocationArgument": "-download-location"
+        }
+    }
+}
